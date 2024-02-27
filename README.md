@@ -16,3 +16,5 @@ Personalization: Tailor AiChatify to your preferences. Customize settings, theme
 Learning and Adaptation: AiChatify doesn't just respond; it learns. Benefit from an evolving chatbot that continuously refines its responses based on your interactions, creating a truly personalized experience.
 
 Whether you're looking for a virtual assistant, a conversational companion, or a reliable information source, AiChatify delivers on all fronts. Join us on the journey where technology meets intuition, and communication reaches new heights. Download AiChatify today and explore the limitless possibilities of intelligent mobile conversations
+
+![Screenshot 2024-01-28 123930](https://github.com/pasindu-2002/AIChatify/assets/87941322/28e0a3d3-c246-4d0a-a9ab-909438f84dd9)
