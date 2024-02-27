@@ -17,9 +17,7 @@ Learning and Adaptation: AiChatify doesn't just respond; it learns. Benefit from
 
 Whether you're looking for a virtual assistant, a conversational companion, or a reliable information source, AiChatify delivers on all fronts. Join us on the journey where technology meets intuition, and communication reaches new heights. Download AiChatify today and explore the limitless possibilities of intelligent mobile conversations
 
-![Screenshot 2024-01-28 123930](https://github.com/pasindu-2002/AIChatify/assets/87941322/28e0a3d3-c246-4d0a-a9ab-909438f84dd9)
-
-![Screenshot 2024-01-28 123626](https://github.com/pasindu-2002/AIChatify/assets/87941322/33ceda9f-2e16-427e-be74-10af951d7681)
+![Screenshot 2024-01-28 123930](https://github.com/pasindu-2002/AIChatify/assets/87941322/28e0a3d3-c246-4d0a-a9ab-909438f84dd9) ![Screenshot 2024-01-28 123626](https://github.com/pasindu-2002/AIChatify/assets/87941322/33ceda9f-2e16-427e-be74-10af951d7681)
 
 ![Screenshot 2024-01-28 123647](https://github.com/pasindu-2002/AIChatify/assets/87941322/7ca22b36-40c4-4896-a76e-bbb628e7a019)
 
